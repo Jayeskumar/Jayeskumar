@@ -1,5 +1,5 @@
 <h1 align="center">Hi there everyone👋, I'm Jayes</h1>
-<h3 align="center">A Passionate Coder from India</h3>
+<h3 align="center">A Passionate Hardcore Coder from India</h3>
 
 - 🔭 I’m currently working on [DSA Visualizer](https://github.com/Jayeskumar/DSA-Visualizer)
 
