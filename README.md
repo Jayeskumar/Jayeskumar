@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DSA Full Stack Development and AI**
 
-- 📫 How to reach me **js@bigq.in**
+- 📫 How to reach me **jjayaskumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
