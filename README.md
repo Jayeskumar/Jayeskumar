@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DSA Visualizer](https://github.com/Jayeskumar/DSA-Visualizer)
 
-- 🌱 I’m currently learning **Dart and Solidity**
+- 🌱 I’m currently learning **Graph Algorithms**
 
 - 👯 I’m looking to collaborate on [Firebase Android SDK](https://github.com/firebase/firebase-android-sdk)
 
