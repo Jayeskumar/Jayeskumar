@@ -31,7 +31,7 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/jayesaki#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/jayesaki#" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/jjayaskumar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/jjayaskumar/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@jjayaskumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@jjayaskumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/jjayaskumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/jjayaskumar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jjayaskumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/jjayaskumar" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/https://www.topcoder.com/members/jjayaskumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="https://www.topcoder.com/members/jjayaskumar" height="30" width="40" /></a>
 </p>
 
