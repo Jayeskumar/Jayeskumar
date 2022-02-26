@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 
-- 💬 Ask me about **DSA Full Stack Development and AI**
+- 💬 Ask me about **DSA Full Stack Development **
 
 - 📫 How to reach me **jjayaskumar@gmail.com**
 
