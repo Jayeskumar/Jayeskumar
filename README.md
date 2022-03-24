@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DSA Visualizer Project](https://github.com/Jayeskumar/DSA-Visualizer)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on [Firebase Android SDK](https://github.com/firebase/firebase-android-sdk)
 
