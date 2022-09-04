@@ -1,4 +1,4 @@
-<h1 align="center">Hi there everyone👋, I'm Jayeskumar</h1>
+<h1 align="center">Hi there everyone👋, I'm Jayeskumar.</h1>
 <h3 align="center">A Passionate Hardcore Coder from India.</h3>
 
 - 🔭 I’m currently working on [DSA Visualizer Project](https://github.com/Jayeskumar/DSA-Visualizer)
